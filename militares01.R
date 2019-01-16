@@ -29,3 +29,5 @@ dt[MES==3, .(mean(REMUNERAÇÃO.BÁSICA.BRUTA..R..,na.rm = T),.N), by = "DESCRIC
 
 dt<- dt[OBS,on = "Id_SERVIDOR_PORTAL"]
 dt<- dt[HON,on = "Id_SERVIDOR_PORTAL"]
+
+teste1 <- 1
