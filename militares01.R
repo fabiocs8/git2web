@@ -36,3 +36,7 @@ div <- 1
 
 test <- 2
 
+add <-3
+
+mult  <- 4
+
