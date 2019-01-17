@@ -32,7 +32,9 @@ dt<- dt[HON,on = "Id_SERVIDOR_PORTAL"]
 
 teste1 <- 1
 
-div <- 1
+
+aposreset <- 1
+
 
 test <- 2
 
