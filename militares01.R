@@ -31,3 +31,6 @@ dt<- dt[OBS,on = "Id_SERVIDOR_PORTAL"]
 dt<- dt[HON,on = "Id_SERVIDOR_PORTAL"]
 
 teste1 <- 1
+
+
+
